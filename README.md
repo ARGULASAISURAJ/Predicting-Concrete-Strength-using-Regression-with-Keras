@@ -1,0 +1,2 @@
+# Predicting-Concrete-Strength-using-Regression-with-Keras
+Predicting Concrete Strength using Regression with Keras--- In this notebook,I have used Keras library to build a regression model that predicts the concrete strength given its ingredients values like Cement, BlastFurnace, Flyash,Water Superplasticizer, Coarse aggregate, Fine aggregate and age. I have used regression model because strength is a continuous data in the dataset.
